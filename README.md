@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning Golang.
 - 👯 I’m looking to collaborate on interesting open-source projects built on top of the MERN stack.
 - 💬 Ask me about travelling, food and creating impact.
-- 📫 How to reach me: https://www.linkedin.com/in/adil-waqar/
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/adil-waqar/">Linkedin<a/>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I once slept for 24 hours straight :))
 
