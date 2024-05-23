@@ -4,6 +4,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
+- I just graduated with a MS in CS from <a href="https://www.usc.edu/">USC<a/>
 - 🔭 I’m currently working on MongoDB, NodeJS and ReactJS.
 - 🌱 I’m currently learning Golang.
 - 👯 I’m looking to collaborate on interesting open-source projects built on top of the MERN stack.
