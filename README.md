@@ -4,6 +4,14 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
+- 🔭 I’m currently working on MongoDB, NodeJS and ReactJS.
+- 🌱 I’m currently learning Golang.
+- 👯 I’m looking to collaborate on interesting open-source projects built on top of the MERN stack.
+- 💬 Ask me about travelling, food and creating impact.
+- 📫 How to reach me: 
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I once slept for 24 hours straight :))
+
 <!--
 **adil-waqar/adil-waqar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
